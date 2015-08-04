@@ -5,7 +5,8 @@ gem 'rails', '4.0.12'
 
 # Use mysql as the database for Active Record
 gem 'mysql2'
-gem 'brakeman'
+
+gem 'brakeman', :require => false
 # Use SCSS for stylesheets
 gem 'sass-rails', '~> 4.0.2'
 

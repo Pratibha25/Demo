@@ -9,4 +9,3 @@
 
 # Make sure your secret_key_base is kept private
 # if you're sharing your code publicly.
-Untitled1::Application.config.secret_key_base = '2b244f366c2ac91d07a495500491bbae6f608313995bc85cd48f1170fcd5edf6b8799817374ea7e57da5199eed4fded63b9e066bc98d8916b6188cf41df058b4'
